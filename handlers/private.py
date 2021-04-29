@@ -9,6 +9,9 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""I am an Telegram YB Groups Music bot 🎶, I let you play music in your group's voice chat.
 
+Bot Maintained By @YogeshBots 
+⚠️You must Join our channel in order to use me😇
+
 The commands I currently support are:
 
 /play - 🎶 Play the replied audio file or YouTube video 
@@ -23,7 +26,7 @@ The commands I currently support are:
             [
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/HiTechRockets"
+                        "Subscribe", url="https://bit.ly/3ezKasi"
                     ),
                     InlineKeyboardButton(
                         "Channel", url="https://t.me/YogeshBots"
