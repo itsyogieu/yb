@@ -1,6 +1,6 @@
 # 🎤 TG YB Groups Music Player 🎶 — [YB Calls Music] 
 
--Based group call bot with queue and multiple chat support
+-Based Group Call bot with queue and Multiple Chat support
 
 # Click Below Image to Deploy
 
