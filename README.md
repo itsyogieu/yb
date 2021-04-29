@@ -1,5 +1,14 @@
 # TG YB Groups Music Player — [YB Calls Music] -based group call bot with queue and multiple chat support
 
+# Click Below Image to Deploy
+
+[![Delpoy](https://telegra.ph/file/ae4fecebac9d00089adf9.jpg)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/TG-Music-Player)
+
+
+## Get Your String Session By [Pyrogram](https://replit.com/@HiTechTech1/PyroStringSession)
+
 ## Requirements
 
 - FFmpeg
@@ -33,14 +42,14 @@ Copy `example.env` to `.env` and fill it with your credentials.
    docker run --env-file .env musicplayer
    ```
 
-# Click Below Image to Deploy
-
-[![Delpoy](https://telegra.ph/file/ae4fecebac9d00089adf9.jpg)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/TG-Music-Player)
 
 
-## Get Your String Session By [Pyrogram](https://replit.com/@HiTechTech1/PyroStringSession)
+
+
+
+
+
+
 ## Commands
 
 | Command | Description                                          |
