@@ -9,7 +9,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/ybgroupsmusicbot)
 
 
-## Get Your String Session By [Pyrogram](https://replit.com/@HiTechTech1/PyroStringSession)
+## Get Your String Session By [Pyrogram](https://replit.com/@itsyogieu/PyroStringSession)
 
 ## Requirements
 
