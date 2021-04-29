@@ -6,7 +6,7 @@
 
 [![Delpoy](https://telegra.ph/file/ae4fecebac9d00089adf9.jpg)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/TG-Music-Player)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/ybgroupsmusicbot)
 
 
 ## Get Your String Session By [Pyrogram](https://replit.com/@HiTechTech1/PyroStringSession)
