@@ -35,8 +35,10 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 # Click Below Image to Deploy
 
-[![Deploy](https://telegra.ph/file/ae4fecebac9d00089adf9.jpg)
-(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/TG-Music-Player)
+[![Delpoy](https://telegra.ph/file/ae4fecebac9d00089adf9.jpg)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/TG-Music-Player)
+
 
 ## Get Your String Session By [Pyrogram](https://replit.com/@HiTechTech1/PyroStringSession)
 ## Commands
