@@ -1,5 +1,5 @@
 {
-  "name": "CallsMusic",
+  "name": "YBCallsMusic",
   "description": "A group call streaming bot made using MarshalX/tgcalls with queue & multiple chats support.",
   "keywords": [
     "telegram",
