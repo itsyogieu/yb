@@ -7,7 +7,7 @@ from helpers.filters import other_filters2
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""I am an Telegram YB Groups Music bot [🎶](https://telegra.ph/file/ae4fecebac9d00089adf9.jpg) 
+        f"""I am an Telegram YB Groups Music bot! [🎶](https://telegra.ph/file/ae4fecebac9d00089adf9.jpg) 
         I let you play music in your group's voice chat.
 
 Bot Maintained By @YogeshBots 
