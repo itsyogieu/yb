@@ -1,5 +1,6 @@
 {
-  "name": "YBCallsMusic",
+  "name": "YB Calls Music",
+  "logo": "https://telegra.ph/file/ae4fecebac9d00089adf9.jpg",
   "description": "A group call streaming bot made using MarshalX/tgcalls with queue & multiple chats support.",
   "keywords": [
     "telegram",
