@@ -1,4 +1,4 @@
-# TG Music Player — [Calls Music](https://github.com/callsmusic) & [pytgcalls](https://github.com/MarshalX/tgcalls)-based group call bot with queue and multiple chat support
+# TG YB Groups Music Player — [YB Calls Music] -based group call bot with queue and multiple chat support
 
 ## Requirements
 
